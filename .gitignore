@@ -1,0 +1,8 @@
+@"
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+gemini_faiss_index/
+"@ | Set-Content .gitignore
